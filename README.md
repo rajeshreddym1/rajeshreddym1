@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Kubernetes and Terraform
-- 👯 I’m looking to collaborate on Azure and DevOps projects
+- 👯 I’m looking to collaborate on Azure cloud and DevOps projects
 - 📫 How to reach me: rajeshreddymadas08@gmail.com
 -->
 
